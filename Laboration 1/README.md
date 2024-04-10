@@ -15,7 +15,7 @@ Sten-sax-påse är en enkel implementation av det populära spelet där spelaren
 3. Datorn väljer slumpmässigt mellan sten, sax och påse.
 4. Spelet avgör vinnaren baserat på reglerna: sten vinner över sax, sax vinner över påse, och påse vinner över sten.
 5. Du kommer att få veta om du vann, förlorade eller om det blev oavgjort.
-6. Spelet fortsätter tills du väljer att avsluta genom att skriva "sluta".
+6. Spelet fortsätter tills du väljer att avsluta genom att skriva "sluta"..
 
 
 
